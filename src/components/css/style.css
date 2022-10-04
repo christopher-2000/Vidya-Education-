@@ -13,6 +13,14 @@
 
 
 }
+.logo{
+    height: 3em;
+    padding: 1em;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
 .body{
     font-family: 'Alata', sans-serif;
 }
@@ -61,7 +69,7 @@
     padding-right: 10%;
     margin-right: 0%;
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     
 
 }

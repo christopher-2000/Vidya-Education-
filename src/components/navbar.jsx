@@ -1,10 +1,11 @@
 import './css/style.css';
-
-function Navbar(props){
+import Logo from './images/play_store_512.png';
+function Navbar(){
     return(
-        <section className='navbar'>
+        <section className='navbar inline'>
+            <img className='logo' src={Logo} alt="" />
             <h1 className='white-text'>Vidya Education App</h1>
-            {props.button}
+            
         </section>
     )
 }
