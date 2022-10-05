@@ -40,7 +40,7 @@ function Home(){
             isUG==='About'?
             (<div>
                 <h2 className='subtitle' >{isUG}</h2>
-                <p style={{textAlign:'justify'}}>Vidya is a crowd sourced academic initiative by students of UC College lead by the student organisation KSU. It aims to collect quality notes and other academic materials to make it available to the student community at large for exams and other academic pursuits, the team is being lead by <i>Aenosh K Santosh</i> a student of UC College Aluva. The idea of Vidya was perceived by <i>Joseph E George</i> and the initial Vidya app was launched in 2017. Special thanks to Arun Santhosh, Josemon all other contributers of Vidya. <i>PARUDEESA UNION</i> has been a very integral part of the current development contributing to the collection and collaboration of academic materials.    
+                <p style={{textAlign:'justify'}}>Vidya is a crowd sourced academic initiative by students of UC College lead by the student organisation KSU. It aims to collect quality notes and other academic materials to make it available to the student community at large for exams and other academic pursuits, the team is being lead by Aenosh K Santhosh a student of UC College Aluva. The idea of Vidya was perceived by Joseph E George and the initial Vidya app was launched in 2017. Special thanks to Arun Santhosh, Josemon all other contributers of Vidya. <i>PARUDEESA UNION</i> has been a very integral part of the current development contributing to the collection and collaboration of academic materials.    
                 </p>
 
             </div>
